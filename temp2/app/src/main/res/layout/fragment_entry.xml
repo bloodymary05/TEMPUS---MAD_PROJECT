@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:padding="24dp"
+    android:background="@color/background">
+
+    <TextView
+        android:id="@+id/welcome_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="16dp"
+        android:gravity="center"
+        android:text="Tempus"
+        android:textColor="@color/dull_black"
+        android:textSize="32sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/welcome_subtitle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="All in one student hub"
+        android:textSize="16sp"
+        android:textColor="@color/dull_black"
+        android:alpha="0.7"
+        android:gravity="center"
+        android:layout_marginBottom="48dp" />
+
+</LinearLayout>

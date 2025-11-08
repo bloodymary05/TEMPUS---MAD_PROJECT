@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">temp</string>
+    
+    <!-- Entry Screen -->
+    <string name="welcome_title">Welcome</string>
+    <string name="welcome_subtitle">Sign in to your account or continue as a guest</string>
+    <string name="sign_in_button">Sign In</string>
+    <string name="continue_without_signin">Continue Without Signing In</string>
+    
+
+    <!-- Main Screen -->
+    <string name="home_tab">Home</string>
+    <string name="search_tab">Search</string>
+    <string name="favorites_tab">Favorites</string>
+    <string name="cart_tab">Cart</string>
+    <string name="profile_tab">Profile</string>
+</resources>

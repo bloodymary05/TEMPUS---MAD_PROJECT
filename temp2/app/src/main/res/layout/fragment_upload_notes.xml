@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:padding="16dp"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <EditText
+            android:id="@+id/etSubject"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Subject (e.g., AI, IVP, SE)"
+            android:inputType="textCapCharacters"
+            android:singleLine="true" />
+
+        <EditText
+            android:id="@+id/etYear"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Course Year (e.g., BTI SEM IX)"
+            android:layout_marginTop="12dp"
+            android:singleLine="true" />
+
+        <EditText
+            android:id="@+id/etUploader"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Uploader name"
+            android:layout_marginTop="12dp"
+            android:singleLine="true" />
+
+        <TextView
+            android:id="@+id/tvSelectedFile"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="No file selected"
+            android:textColor="#777777"
+            android:layout_marginTop="16dp" />
+
+        <Button
+            android:id="@+id/btnPickFile"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Choose File"
+            android:layout_marginTop="8dp" />
+
+        <ProgressBar
+            android:id="@+id/progressUpload"
+            style="?android:attr/progressBarStyle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="16dp"
+            android:visibility="gone" />
+
+        <Button
+            android:id="@+id/btnUpload"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Upload"
+            android:layout_marginTop="16dp" />
+
+    </LinearLayout>
+</ScrollView>

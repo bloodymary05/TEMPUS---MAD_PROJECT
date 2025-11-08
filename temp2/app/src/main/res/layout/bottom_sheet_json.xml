@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:background="@color/background">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Timetable JSON"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:textColor="@color/dull_black"
+        android:layout_marginBottom="12dp" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="300dp"
+        android:layout_marginBottom="12dp">
+
+        <TextView
+            android:id="@+id/jsonTextView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="12sp"
+            android:textColor="@color/dull_black"
+            android:fontFamily="monospace"
+            android:background="@color/card_background"
+            android:padding="12dp"
+            android:lineSpacingMultiplier="1.2" />
+    </ScrollView>
+
+    <Button
+        android:id="@+id/copyButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Copy to Clipboard"
+        android:textColor="@color/white"
+        android:backgroundTint="@color/accent"
+        android:padding="12dp"
+        style="@style/RoundedButton" />
+</LinearLayout>

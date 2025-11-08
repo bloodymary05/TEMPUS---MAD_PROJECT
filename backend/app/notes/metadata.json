@@ -1,0 +1,178 @@
+{
+  "ai_AI_CLASS_NOTES_pdf_pdf": {
+    "id": "ai_AI_CLASS_NOTES_pdf_pdf",
+    "name": "AI_CLASS_NOTES.pdf.pdf",
+    "subject": "AI",
+    "year": "2024",
+    "uploaded_by": "system",
+    "upload_date": "2025-11-05T00:00:00",
+    "file_size": 0,
+    "file_type": ".pdf",
+    "file_path": "ai/AI_CLASS_NOTES.pdf.pdf",
+    "description": "Class notes for Artificial Intelligence",
+    "tags": [
+      "class-notes",
+      "ai",
+      "theory"
+    ]
+  },
+  "ai_AI_UNIT_1_pdf_pdf": {
+    "id": "ai_AI_UNIT_1_pdf_pdf",
+    "name": "AI_UNIT_1.pdf.pdf",
+    "subject": "AI",
+    "year": "2024",
+    "uploaded_by": "system",
+    "upload_date": "2025-11-05T00:00:00",
+    "file_size": 0,
+    "file_type": ".pdf",
+    "file_path": "ai/AI_UNIT_1.pdf.pdf",
+    "description": "Unit 1 notes for AI",
+    "tags": [
+      "unit-1",
+      "ai"
+    ]
+  },
+  "ai_AI_UNIT_2_NUMERICALS_pdf_pdf": {
+    "id": "ai_AI_UNIT_2_NUMERICALS_pdf_pdf",
+    "name": "AI_UNIT_2_NUMERICALS.pdf.pdf",
+    "subject": "AI",
+    "year": "2024",
+    "uploaded_by": "system",
+    "upload_date": "2025-11-05T00:00:00",
+    "file_size": 0,
+    "file_type": ".pdf",
+    "file_path": "ai/AI_UNIT_2_NUMERICALS.pdf.pdf",
+    "description": "Unit 2 Numerical problems for AI",
+    "tags": [
+      "unit-2",
+      "numericals",
+      "ai"
+    ]
+  },
+  "ai_CLASS_NOTES_LAST_FEW_LECTURES_MIN-MAX_ALGO_pdf_pdf": {
+    "id": "ai_CLASS_NOTES_LAST_FEW_LECTURES_MIN-MAX_ALGO_pdf_pdf",
+    "name": "CLASS_NOTES_LAST_FEW_LECTURES_MIN-MAX_ALGO.pdf.pdf",
+    "subject": "AI",
+    "year": "2024",
+    "uploaded_by": "system",
+    "upload_date": "2025-11-05T00:00:00",
+    "file_size": 0,
+    "file_type": ".pdf",
+    "file_path": "ai/CLASS_NOTES_LAST_FEW_LECTURES_MIN-MAX_ALGO.pdf.pdf",
+    "description": "Min-Max Algorithm class notes",
+    "tags": [
+      "min-max",
+      "algorithm",
+      "ai"
+    ]
+  },
+  "ivp_IVP_CLASS_NOTES_pdf": {
+    "id": "ivp_IVP_CLASS_NOTES_pdf",
+    "name": "IVP_CLASS_NOTES.pdf",
+    "subject": "IVP",
+    "year": "2024",
+    "uploaded_by": "system",
+    "upload_date": "2025-11-05T00:00:00",
+    "file_size": 0,
+    "file_type": ".pdf",
+    "file_path": "ivp/IVP_CLASS_NOTES.pdf",
+    "description": "Class notes for Image and Video Processing",
+    "tags": [
+      "class-notes",
+      "ivp"
+    ]
+  },
+  "ivp_IVP_UNIT_2_pdf_pdf": {
+    "id": "ivp_IVP_UNIT_2_pdf_pdf",
+    "name": "IVP_UNIT_2.pdf.pdf",
+    "subject": "IVP",
+    "year": "2024",
+    "uploaded_by": "system",
+    "upload_date": "2025-11-05T00:00:00",
+    "file_size": 0,
+    "file_type": ".pdf",
+    "file_path": "ivp/IVP_UNIT_2.pdf.pdf",
+    "description": "Unit 2 notes for IVP",
+    "tags": [
+      "unit-2",
+      "ivp"
+    ]
+  },
+  "se_SE_UNIT_1_pdf": {
+    "id": "se_SE_UNIT_1_pdf",
+    "name": "SE UNIT 1.pdf",
+    "subject": "SE",
+    "year": "2024",
+    "uploaded_by": "system",
+    "upload_date": "2025-11-05T00:00:00",
+    "file_size": 0,
+    "file_type": ".pdf",
+    "file_path": "se/SE UNIT 1.pdf",
+    "description": "Unit 1 notes for Software Engineering",
+    "tags": [
+      "unit-1",
+      "se"
+    ]
+  },
+  "se_SE_UNIT_2_pdf": {
+    "id": "se_SE_UNIT_2_pdf",
+    "name": "SE UNIT 2.pdf",
+    "subject": "SE",
+    "year": "2024",
+    "uploaded_by": "system",
+    "upload_date": "2025-11-05T00:00:00",
+    "file_size": 0,
+    "file_type": ".pdf",
+    "file_path": "se/SE UNIT 2.pdf",
+    "description": "Unit 2 notes for Software Engineering",
+    "tags": [
+      "unit-2",
+      "se"
+    ]
+  },
+  "se_SE_UNIT_4_pdf": {
+    "id": "se_SE_UNIT_4_pdf",
+    "name": "SE UNIT 4.pdf",
+    "subject": "SE",
+    "year": "2024",
+    "uploaded_by": "system",
+    "upload_date": "2025-11-05T00:00:00",
+    "file_size": 0,
+    "file_type": ".pdf",
+    "file_path": "se/SE UNIT 4.pdf",
+    "description": "Unit 4 notes for Software Engineering",
+    "tags": [
+      "unit-4",
+      "se"
+    ]
+<<<<<<< Updated upstream
+  },
+  "ivp_IVP_Research_Paper": {
+    "id": "ivp_IVP_Research_Paper",
+    "name": "IVP Research Paper",
+    "subject": "IVP",
+    "year": "2025",
+    "uploaded_by": "nush",
+    "upload_date": "2025-11-05T00:18:01.196909",
+    "file_size": 667028,
+    "file_type": "",
+    "file_path": "ivp/IVP Research Paper",
+    "description": "very cool paper",
+    "tags": []
+  },
+  "ivp_IVP_Research_Paper_C142_pdf": {
+    "id": "ivp_IVP_Research_Paper_C142_pdf",
+    "name": "IVP Research Paper C142.pdf",
+    "subject": "IVP",
+    "year": "2025",
+    "uploaded_by": "nushkie",
+    "upload_date": "2025-11-05T00:26:11.870995",
+    "file_size": 667028,
+    "file_type": ".pdf",
+    "file_path": "ivp/IVP Research Paper C142.pdf",
+    "description": "very cool paper as i said",
+    "tags": []
+=======
+>>>>>>> Stashed changes
+  }
+}

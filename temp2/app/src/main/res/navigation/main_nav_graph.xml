@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main_nav_graph"
+    app:startDestination="@id/homeFragment">
+
+    <fragment
+        android:id="@+id/homeFragment"
+        android:name="com.example.temp.ui.main.HomeFragment"
+        android:label="Home"
+        tools:layout="@layout/fragment_home" />
+
+    <fragment
+        android:id="@+id/notesFragment"
+        android:name="com.example.temp.ui.main.NotesFragment"
+        android:label="Notes"
+        tools:layout="@layout/fragment_upload_notes" />
+
+    <fragment
+        android:id="@+id/timetableInputFragment"
+        android:name="com.example.temp.ui.main.TimetableInputFragment"
+        android:label="Timetable"
+        tools:layout="@layout/fragment_timetable_input" />
+
+    <fragment
+        android:id="@+id/classroomFragment"
+        android:name="com.example.temp.ui.main.ClassroomFragment"
+        android:label="Classroom"
+        tools:layout="@layout/fragment_classroom" />
+
+    <fragment
+        android:id="@+id/timetableDayWiseFragment"
+        android:name="com.example.temp.ui.main.TimetableDayWiseFragment"
+        android:label="Daywise Timetable"
+        tools:layout="@layout/fragment_timetable_daywise" />
+
+    <fragment
+        android:id="@+id/uploadNotesFragment"
+        android:name="com.example.temp.UploadNotesFragment"
+        android:label="Upload Notes"
+        tools:layout="@layout/fragment_upload_notes" />
+
+
+</navigation>
