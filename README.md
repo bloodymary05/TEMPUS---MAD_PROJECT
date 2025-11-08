@@ -145,10 +145,3 @@ Notes:
 - FastAPI, Uvicorn, Ultralytics YOLO, Mistral AI.
 
 ---
-
-If you'd like, I can also:
-
-- Add a minimal Postman collection or example curl commands for the most common endpoints.
-- Add a small script to start the backend and set environment variables on Windows.
-
-If you want any adjustments to the README (shorter, more tutorial-style, or include screenshots), tell me which style you prefer and I will update it.
